@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="js/jquery-3.2.1.min.js"></script>
+
+</head>
+<body>
+<h1>查询天气</h1>
+
+<input    type="text" placeholder="请输出你的地址" id="tel"/>
+
+<button id="ajax">确定</button>
+
+<p><span id="reslut"></span></p>
+
+
+
+<script type="text/javascript">
+    $(function(){
+        $('#ajax').on('click',function(){
+            var $telValue=$('#tel').val();
+            if($telValue=="") {
+                alert('不能为空！');
+                return;
+            }
+            $.ajax({
+                type: 'GET',
+                dataType:'jsonp',
+                jsonp:'callback',
+                jsonpCallback:'getName',
+                url: 'http://api.asilu.com/weather/',
+                data:{
+                    "city":$telValue
+                },
+                success: function(data){
+                    var reslutData=data;
+                    console.log(reslutData);
+                    $('#reslut').text("你查询的是:"+reslutData.city+","+"明天的天气是:"+reslutData.weather[0].weather);
+                }
+            })
+        })
+
+    })
+</script>
+</body>
+</html>

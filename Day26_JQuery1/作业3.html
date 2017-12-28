@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        #div1{
+            width: 1000px;
+            height: 1000px;
+            background-color: aqua;
+        }
+        /*#div{*/
+            /*width: 600px;*/
+            /*height: 70px;*/
+            /*background-color: darkgray;*/
+            /*margin-left: 5px;*/
+        /*}*/
+        button{
+            width: 50px;
+            height: 30px;
+            font-size: 10px;
+            border-radius: 50px;
+           margin: 20px;
+
+        }
+    </style>
+    <script src="JS/jquery-3.2.1.min.js"></script>
+</head>
+<body>
+<div id="div1">
+        <button id="btn1">添加</button>
+        <button id="btn2">删除</button>
+        <button id="btn3">小于0</button>
+        <button id="btn4">大于0</button>
+        <button id="btn5">刷新</button>
+        <button id="btn6">全部显示</button>
+</div>
+</body>
+<script type="text/javascript">
+    function color() {
+        return  '#' +
+            (function(color){
+                return (color +=  '0123456789abcdef'[Math.floor(Math.random()*16)])
+                && (color.length == 6) ?  color : arguments.callee(color);
+            })('');
+    }
+    function number() {
+        var Range = 50 - (-50);
+        var Rand = Math.random();
+        var num = (-50) + Math.round(Rand * Range);
+        return num;
+    }
+   $("#btn1").click(function () {
+       $("#div1").append($('<div>').css({"width":"600px",
+                            "height":"70px","backgroundColor":color(),
+                                    "text-align":"center","fontSize":"20px","margin":"5px"}).append(number()))
+       $("#div1 div").each(function () {
+           var text = $(this).text();
+           console.log(text);
+       })
+   });
+    $("#btn2").click(function () {
+        $('div:last-child').animate({"marginLeft":"800px"},500,function () {
+            $(this).remove();
+        })
+    });
+    $("#btn3").click(function () {
+        if (text>=0){
+            this.css.style({"display":"none"});
+        }
+    })
+
+
+</script>
+</html>
