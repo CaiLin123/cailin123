@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PERSONS>
+  <User name="李想">
+    <userName>lixiang</userName>
+    <ID>1353251258@qq.com</ID>
+    <password>lx1353251258</password>
+    <job>学生</job>
+  </User>
+</PERSONS>

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4d77bf5-291d-47af-937d-2bc2591cd9e9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lx/Login.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/guishudi/Attribution.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/Down.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/Upload.java" />
+        <option value="$PROJECT_DIR$/src/lx/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/lx/Main/Login.java" />
+        <option value="$PROJECT_DIR$/src/lx/Main/Register.java" />
+        <option value="$PROJECT_DIR$/src/lx/bean/Person.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/phoneHome/Phone.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/game/Game.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/weather/Weather.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/weather/Weathers.java" />
+        <option value="$PROJECT_DIR$/src/成绩.xml" />
+        <option value="$PROJECT_DIR$/src/lx/play/data/Upload.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/data/DownFirst.java" />
+        <option value="$PROJECT_DIR$/src/lx/bean/User.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/data/Down.java" />
+        <option value="$PROJECT_DIR$/src/lx/play/data/DownTen.java" />
+        <option value="$PROJECT_DIR$/src/lx/main/Login.java" />
+        <option value="$PROJECT_DIR$/src/lx/bean/Docu.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/LoginPassWordTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/RegisterPassWordTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/RegisterUserNameTool.java" />
+        <option value="$PROJECT_DIR$/src/用户信息.xml" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/LoginUserNameTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/bean/UserData.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/LoginIDTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/RegisterIDTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/tool/LoginIDTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/tool/LoginPassWordTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/tool/RegisterIDTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/exception/registerException/RegisterUserNameException.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/tool/RegisterPassWordTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/exceptiontool/tool/RegisterUserNameTool.java" />
+        <option value="$PROJECT_DIR$/src/lx/main/Register.java" />
+        <option value="$PROJECT_DIR$/src/bean/Docu.java" />
+        <option value="$PROJECT_DIR$/src/main/Login.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="658" />
+    <option name="width" value="1284" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Day21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day21" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day21" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/api-gateway-demo-sign-java-master" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\java-20170721103\Day21" />
+      <recent name="C:\Users\java-20170721103\Day21\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lanou3g\Desktop\LXHomeWork\work1213\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DownFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lx.play.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="work" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lx.play.data" />
+      <option name="MAIN_CLASS_NAME" value="lx.play.data.DownFirst" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DownFirst.down" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lx.play.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="work" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lx.play.data" />
+      <option name="MAIN_CLASS_NAME" value="lx.play.data.DownFirst" />
+      <option name="METHOD_NAME" value="down" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DownTen.down" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lx.play.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="work" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lx.play.data" />
+      <option name="MAIN_CLASS_NAME" value="lx.play.data.DownTen" />
+      <option name="METHOD_NAME" value="down" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lx.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lx.main.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="work" />
+      <envs />
+    </configuration>
+    <configuration name="Phone.phone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lx.play.phoneHome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="work" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="lx.play.phoneHome" />
+      <option name="MAIN_CLASS_NAME" value="lx.play.phoneHome.Phone" />
+      <option name="METHOD_NAME" value="phone" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Day21" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.DownTen.down" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DownFirst.down" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DownFirst" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Phone.phone" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Phone.phone" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DownTen.down" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DownFirst.down" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DownFirst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4d77bf5-291d-47af-937d-2bc2591cd9e9" name="Default" comment="" />
+      <created>1513213113458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513213113458</updated>
+      <workItem from="1513213114849" duration="12248000" />
+      <workItem from="1513231551699" duration="1310000" />
+      <workItem from="1513234296971" duration="11298000" />
+      <workItem from="1513249854846" duration="158000" />
+      <workItem from="1513251704225" duration="6059000" />
+      <workItem from="1513265101306" duration="3498000" />
+      <workItem from="1513856728323" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Down_down - 2017.12.14 at 17h 42m 58s.xml">
+      <configuration name="Down.down" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Down_down - 2017.12.14 at 17h 43m 34s.xml">
+      <configuration name="Down.down" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Down_down - 2017.12.14 at 17h 44m 08s.xml">
+      <configuration name="Down.down" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Down_down - 2017.12.14 at 17h 50m 26s.xml">
+      <configuration name="Down.down" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Down_down - 2017.12.14 at 17h 51m 32s.xml">
+      <configuration name="Down.down" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Down_down - 2017.12.14 at 17h 54m 18s.xml">
+      <configuration name="Down.down" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Down_down - 2017.12.14 at 17h 54m 38s.xml">
+      <configuration name="Down.down" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Down_down - 2017.12.14 at 17h 55m 17s.xml">
+      <configuration name="Down.down" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Down_down - 2017.12.14 at 17h 55m 35s.xml">
+      <configuration name="Down.down" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Phone_phone - 2017.12.14 at 19h 43m 21s.xml">
+      <configuration name="Phone.phone" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35195000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20948827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995657" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2828125" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/成绩.txt" />
+    <entry file="file://$PROJECT_DIR$/src/target.xml" />
+    <entry file="file://$PROJECT_DIR$/src/成绩.xml" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/exception/registerException/RegisterException.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/exception/registerException/RegisterPassWordNotW.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Exception.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/exception/loginException/LoginException.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/exception/loginException/LoginPassWordNotMatch.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Throwable.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/bean/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/bean/Docu.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/bean/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/exception/loginException/LoginUserNameNotMatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/bean/UserData.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/play/data/DownFirst.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/play/data/DownTen.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/play/data/Upload.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/play/game/Game.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/play/phoneHome/Phone.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/play/phoneHome/Phones.java" />
+    <entry file="file://$PROJECT_DIR$/src/第一名成绩.xml" />
+    <entry file="file://$PROJECT_DIR$/src/用户信息.xml" />
+    <entry file="file://$PROJECT_DIR$/src/lx/main/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/tool/RegisterIDTool.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/main/Login.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/tool/LoginPassWordTool.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/tool/LoginIDTool.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/exception/registerException/RegisterPassWordNotD.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/exception/registerException/RegisterIDExist.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/exception/registerException/RegisterUserNameException.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/tool/RegisterPassWordTool.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/exceptiontool/tool/RegisterUserNameTool.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/main/Register.java" />
+    <entry file="file://$PROJECT_DIR$/src/lx/play/weather/Weather.java" />
+    <entry file="file://$PROJECT_DIR$/src/bean/Docu.java" />
+    <entry file="file://$PROJECT_DIR$/src/bean/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/bean/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/bean/UserData.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/loginException/LoginException.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/loginException/LoginPassWordNotMatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/loginException/LoginUserNameNotMatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/registerException/RegisterException.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/registerException/RegisterIDExist.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/registerException/RegisterIDNotLegal.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/registerException/RegisterPassWordNotD.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/registerException/RegisterPassWordNotW.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/registerException/RegisterPassWordTooLong.java" />
+    <entry file="file://$PROJECT_DIR$/src/exception/registerException/RegisterUserNameException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Login.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Register.java" />
+  </component>
+</project>

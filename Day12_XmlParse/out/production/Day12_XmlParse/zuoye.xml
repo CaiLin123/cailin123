@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<users name="321"> 
+  <person username="2321"/>  
+  <password password="131x"/>  
+  <job job="Worker"/>  
+  <users/>  
+  <users/>  
+  <users/>  
+  <person name="13"> 
+    <person username="13"/>  
+    <password password="1z"/>  
+    <job job="Worker"/> 
+  </person>  
+  <person name="321"> 
+    <person username="32"/>  
+    <password password="3z"/>  
+    <job job="Worker"/> 
+  </person>  
+  <users name="张三"> 
+    <person username="zhangsan"/>  
+    <password password="123z"/>  
+    <job job="Worker"/> 
+  </users>  
+  <users name="李四">
+    <person username="lisi"/>
+    <password password="321z"/>
+    <job job="Worker"/>
+  </users>
+</users>

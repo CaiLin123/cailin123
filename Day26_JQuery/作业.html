@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>作业</title>
+    <style type="text/css">
+        .span1{
+            font-size: 20px;
+            font-weight: bold;
+            position: absolute;
+            top: 0px;
+            left: 110px;
+        }
+        .span2{
+            font-size: 20px;
+            font-weight: bold;
+            position: absolute;
+            top: 100px;
+            left: 110px;
+        }
+        .span3{
+            font-size: 20px;
+            font-weight: bold;
+            position: absolute;
+            top: 200px;
+            left: 110px;
+        }
+        .div{
+            width: 1000px;
+            height: 700px;
+            background-color: white;
+            text-align: center;
+        }
+        .div1{
+            width: 1000px;
+            height: 100px;
+            background-color: blue;
+        }
+        .div2{
+            width: 50px;
+            height: 50px;
+            color: white;
+            background-color: black;
+            margin: 0 auto;
+            text-align: center;
+        }
+        #div3{
+            width: 300px;
+            height: 400px;
+            position: absolute;
+            top: 8px;
+            left: 1008px;
+            background-color:aqua;
+            text-align: center;
+        }
+        .button{
+            color: black;
+            background-color: blue;
+            font-size: 20px;
+            position: absolute;
+            top: 40px;
+            left: 430px;
+        }
+        #btn1{
+            width: 50px;
+            height: 50px;
+            background-color: red;
+            position: absolute;
+            left: 10px;
+            top: 30px;
+        }
+        #btn2{
+            width: 50px;
+            height: 50px;
+            background-color: yellow;
+            position: absolute;
+            left: 120px;
+            top: 30px;
+        }
+        #btn3{
+            width: 50px;
+            height: 50px;
+            background-color: blue;
+            position: absolute;
+            top: 30px;
+            left: 230px;
+        }
+        #btn4{
+            width: 50px;
+            height: 50px;
+            background-color: darkgray;
+            position: absolute;
+            top: 140px;
+            left: 10px;
+        }#btn5{
+            width: 50px;
+            height: 50px;
+            background-color: darkgray;
+            position: absolute;
+            top: 140px;
+            left: 120px;
+        }#btn6{
+            width: 50px;
+            height: 50px;
+            background-color: darkgray;
+            position: absolute;
+            top: 140px;
+            left: 230px;
+        }
+        #btn7{
+            width: 50px;
+            height: 50px;
+            background-color: darkgray;
+            position: absolute;
+            top: 250px;
+            left: 10px;
+        }#btn8{
+            width: 50px;
+            height: 50px;
+            background-color: darkgray;
+            position: absolute;
+            top: 250px;
+            left: 120px;
+        }#btn9{
+            width: 50px;
+            height: 50px;
+            background-color: darkgray;
+            position: absolute;
+            top: 250px;
+            left: 230px;
+        }
+        #btn10{
+            width: 50px;
+            height: 20px;
+            background-color: darkgray;
+            font-weight: bold;
+            font-size: 10px;
+            position: absolute;
+            top: 350px;
+            left: 30px;
+        }
+        #btn11{
+            width: 50px;
+            height: 20px;
+            background-color: darkgray;
+            font-weight: bold;
+            font-size: 10px;
+            position: absolute;
+            top: 350px;
+            right: 30px;
+        }
+    </style>
+    <script src="JS/jquery-3.2.1.min.js"></script>
+</head>
+<body>
+<div class="div">
+    <div class="div1">
+        <button class="button">点我设置样式</button>
+    </div>
+    <div class="div2">哈哈</div>
+</div>
+<div id="div3">
+    <span class="span1">选择背景</span>
+    <button id="btn1">红色</button>
+    <button id="btn2">黄色</button>
+    <button id="btn3">蓝色</button>
+    <span class="span2">选择宽度</span>
+    <button id="btn4">100</button>
+    <button id="btn5">200</button>
+    <button id="btn6">300</button>
+    <span class="span3">选择高度</span>
+    <button id="btn7">100</button>
+    <button id="btn8">200</button>
+    <button id="btn9">300</button>
+    <button id="btn10">恢复</button>
+    <button id="btn11">确定</button>
+</div>
+</body>
+<script type="text/javascript">
+    var div3 = document.getElementById('div3');
+    div3.style.visibility ="hidden";
+    $('.button').click(function () {
+        var div3 = document.getElementById('div3');
+        div3.style.visibility = "visible";
+    });
+    $('#btn11').click(function () {
+        var div3 = document.getElementById('div3');
+        div3.style.visibility = "hidden";
+    });
+    $('#btn1').click(function () {
+        $('.div2').css({"backgroundColor":"red"})
+    });
+    $('#btn2').click(function () {
+        $('.div2').css({"backgroundColor":"yellow"})
+    });
+    $('#btn3').click(function () {
+        $('.div2').css({"backgroundColor":"blue"})
+    });
+    $('#btn4').click(function () {
+        $('.div2').css({"width":"100px"})
+    });
+    $('#btn5').click(function () {
+        $('.div2').css({"width":"200px"})
+    });
+    $('#btn6').click(function () {
+        $('.div2').css({"width":"300px"})
+    })
+    ;$('#btn7').click(function () {
+        $('.div2').css({"height":"100px"})
+    })
+    ;$('#btn8').click(function () {
+        $('.div2').css({"height":"200px"})
+    })
+    ;$('#btn9').click(function () {
+        $('.div2').css({"height":"300px"})
+    });
+    $('#btn10').click(function () {
+        $('.div2').css({"width": "50px",
+        "height": "50px",
+        "color":"white",
+        "backgroundColor": "black"})
+    });
+
+
+
+</script>
+</html>

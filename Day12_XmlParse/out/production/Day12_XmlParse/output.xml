@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<students>我是一堆学生
+  <student name="张三">我是张三的文本
+    <score>100</score>
+  </student>
+</students>
