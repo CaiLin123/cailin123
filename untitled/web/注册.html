@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册</title>
+    <style type="text/css">
+        .div1{
+            background-color: skyblue;
+            width: 1820px;
+            height: 750px;
+            position: absolute;
+            left: 0px;
+            top: 100px;
+        }
+        .div2{
+            background-color: coral;
+            width: 1680px;
+            height: 690px;
+            position: absolute;
+            top: 30px;
+            bottom: 30px;
+            left: 30px;
+            right: 30px;
+        }
+        .h1{
+            font-size: 30px;
+            position: absolute;
+            top: 110px;
+            left: 760px;
+            color: red;
+        }
+        .div3{
+            position: absolute;
+            top: 200px;
+            left: 500px;
+            font-size: 20px;
+        }
+        .input{
+            width: 460px;
+            height: 50px;
+        }
+        .buttom{
+            font-size: 30px;
+            width: 300px;
+            height: 50px;
+            position: absolute;
+            top: 450px;
+            left: 660px;
+            background-color: fuchsia;
+        }
+    </style>
+</head>
+<body>
+    <div class="div1">
+        <div class="div2">
+            <h1 class="h1">邮箱号注册</h1>
+            <div class="div3">邮箱地址 &nbsp;&nbsp;
+                <form action="/r" method="post">
+                    <label for="input1"></label>
+                <input id="input1" name="username" class="input" placeholder="请输入邮箱地址" onfocus="inputFocus()" onblur="inputBlur()">
+                <span id="span1" style="color: #FF0000">必须是邮箱</span>
+                <br><br>登录密码&nbsp;&nbsp;&nbsp;
+                    <label for="input2"></label>
+                    <input type="password" id="input2" name="password" class="input" placeholder="请设置登录密码" onfocus="inputFocus1()" onblur="inputBlur1()">
+                </form >
+                <span id="span2" style="color: #FF0000">密码必须是6到14位</span>
+                <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="select">同意并遵守&nbsp;&nbsp;<a href="">《服务条款》</a>
+            </div>
+            <button class="buttom" id="button1">下一步</button>
+
+
+        </div>
+
+    </div>
+
+</body>
+<script type="text/javascript">{
+                    var span1 = document.getElementById("span1");
+                    span1.style.visibility = "hidden";
+                    var span2 = document.getElementById("span2");
+                    span2.style.visibility = "hidden";
+    function inputFocus() {
+        var span1 = document.getElementById("span1");
+       span1.style.visibility="visible"
+    }
+    function inputBlur() {
+        var span1 = document.getElementById("span1");
+        span1.style.visibility = "hidden";
+    }
+    function inputFocus1() {
+        var span2 = document.getElementById("span2");
+        span2.style.visibility="visible"
+    }
+    function inputBlur1() {
+        var span2 = document.getElementById("span2");
+        span2.style.visibility = "hidden";
+    }
+    function Clicked() {
+    var button1 = document.getElementById("button1");
+    button1.style.backgroundColor = "red";
+    }
+    var button1 = document.getElementById("button1");
+    button1.onclick = Clicked;
+
+
+
+    }
+
+</script>
+</html>
